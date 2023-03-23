@@ -354,7 +354,7 @@
 
 .big-text-gallary span {
   position: absolute;
-  top: 150%;
+  top: 153%;
   left: 15rem;
   transform: translate(-50%, -30%);
   font-size: 10rem;
@@ -365,7 +365,7 @@
 }
 
 .The-gallary span {
-  top: 130%;
+  top: 133%;
   position: absolute;
   text-align: center;
   padding-left: 5rem;
@@ -381,7 +381,7 @@
   color: #fff;
   font-size: 3rem;
   padding-top: 5rem;
-  padding-left: 77.5rem;
+  padding-left: 57.5rem;
 }
 
 
