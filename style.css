@@ -346,7 +346,7 @@
 
 /* Gallery Design */
 .hidden {
-  min-height: 93.1vh;
+  min-height: 98.1vh;
   background-color: rgba(0, 0, 0, 0.998);
   padding: 0rem 3rem;
   font-family: "Lobster", cursive;
@@ -368,7 +368,7 @@
   top: 137%;
   position: absolute;
   text-align: center;
-  padding-left: 5rem;
+  padding-left: 6rem;
   font-size: 10rem;
   font-family: "Lobster", cursive;
   color: #fff;
@@ -381,7 +381,7 @@
   color: #fff;
   font-size: 3rem;
   padding-top: 5rem;
-  padding-left: 57.5rem;
+  padding-left: 58.5rem;
 }
 
 
