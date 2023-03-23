@@ -262,7 +262,7 @@
   text-align: center;
   align-items: center;
   overflow: hidden;
-  height: 91.3vh;
+  height: 91.4vh;
   width: 100%;
   background-color: rgba(0, 0, 0, 0.999);
   color: #131313;
@@ -290,8 +290,8 @@
 .hero_section img {
   height: 60%;
   margin-top: 20px;
-  padding-left: 455px;
-  padding-right: 5125px;
+  padding-left: 475px;
+  padding-right: 5105px;
 }
 
 .hero_section #word {
